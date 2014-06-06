@@ -230,6 +230,6 @@
     </integer-array>
 
     <!-- Device supports LED flashlight -->
-    <bool name="config_enableTorch">true</bool>
+    <add-resource type="bool" name="config_enableTorch">true</add-resource>
 
 </resources>
